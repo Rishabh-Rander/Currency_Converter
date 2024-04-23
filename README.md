@@ -21,7 +21,7 @@ Welcome to the Currency Converter project! This web application allows users to 
 3. Select the currency to convert from and to from the dropdown menus.
 4. Click the "Get Exchange Rate" button to see the converted amount.
 
-You can access the deployed version of the Currency Converter project [here](https://your-deployed-link.com).
+You can access the deployed version of the Currency Converter project [here](https://rishabh-rander.github.io/Currency_Converter/).
 
 # Visual Preview
 
@@ -29,9 +29,8 @@ You can access the deployed version of the Currency Converter project [here](htt
 
 # API Integration
 
-The project uses the Fetch API to retrieve exchange rates from a currency exchange rate provider. No API key is required for accessing the exchange rates. The latest exchange rates are fetched directly from the provider's API endpoint.
+The project uses the Fetch API to retrieve exchange rates from a currency exchange rate provider. No API key is required for accessing the exchange rates. The latest exchange rates are fetched directly from the provider's API endpoint. For more information on using the API, you can refer to the official GitHub repository of the currency exchange rate provider at [Currency Provider's GitHub Repository](https://github.com/fawazahmed0/currency-api?tab=readme-ov-file).
 The project uses the Flags API from flagsapi.com to generate flag images for different countries. This API provides high-quality flag images that are displayed alongside currency conversion results to enhance the user experience.
-For more information on using the API, you can refer to the official GitHub repository of the currency exchange rate provider at [Currency Provider's GitHub Repository](https://github.com/fawazahmed0/currency-api?tab=readme-ov-file).
 
 # Learning Experience
 
