@@ -4,15 +4,15 @@ Welcome to the Currency Converter project! This web application allows users to 
 
 # Features
 
-Conversion between 159 currencies
-Real-time exchange rates fetched using the Fetch API
-User-friendly interface with easy input and output display
+- Conversion between 159 currencies
+- Real-time exchange rates fetched using the Fetch API
+- User-friendly interface with easy input and output display
 
 # Technologies Used
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # How to Use
 
